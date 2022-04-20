@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="3"/>
+         <div type="page">
+            <p rend="center">       
+               <title>
+                  <emph rend="italic">
+                     Att anlägga en surbrunn <lb/> 
+                     En studie kring Sätra brunns första utbyggnad <lb/>
+                  </emph>
+               </title>
+               
+               Av <name>OVE HIDEMARK</name> 
+            </p>
+            <p>
+               <emph rend="italic">Källorna och landskapet</emph>
+            </p> 
+            
+            <p>
+               Den mycket gamla landsvägen mellan Västerås och Dalarna ut- <lb/>
+               nyttjade på medeltida vis åssträckningarna i landskapet. I ter- <lb/>
+               rängavsnittet mellan Badelundaåsens nordspets och sydspetsen av <lb/>
+               Långhedens åssträckning när Svartåns vattenområde västerifrån <lb/>
+               in och skapar ett sankt och flackt landskap. Vägens framkomlig- <lb/>
+               het försvårades i forna tider av den dåliga markbeskaffenheten <lb/>
+               och gällde i just denna passage för att vara mycket riskabel. De <lb/>
+               med järn och koppar tungt lastade fororna grävde lätt ned sig i<lb/> 
+               risbäddarna och kavelbroarnas gungflyn<lb/>
+            </p> 
+            
+            <p>
+               <l rend="indent">När den gamla landsvägen — kopparvägen — lämnade den </l>
+               sista udden av Badelundaåsen tvingades den att intill torpet. Bro- <lb/>
+               arne söka sig över den nordligaste delen av Solingemyren innan <lb/>
+               den på nytt kunde nå fast mark strax innan Sätra by. Det är i <lb/>
+               detta vattensjuka landskapsavsnitt som Samuel Skragge 1700 <lb/>
+               upptäckte de hälsobringande källor, som skulle bli upphovet till <lb/> 
+               Sätra brunn. Samtliga källsprång, fem till antalet, rann upp ome- <lb/>
+               delbart intill landsvägen på dess södra sida (bild 1).<lb/>
+            </p>
+            
+            <p>
+               <quote>
+                  <l rend="indent">"Thesse alle brunnar eller källor äro belägne straxt wid stora</l>
+                  landsvägen, som löper ifrån Wästerås til Fahlun, 3 mijhl ohnge- <lb/>
+                  fär ifrån Wästerås och 1 och en fierdedehls mijhl från Sahlber- <lb/>
+                  get, från hwilka städer man dageligen och stundeligen kan hafwa <lb/>
+                  tilförsel på allehanda nödvändigheter, särdeles ifrån then förra, <lb/>
+                  til hwilken man kan få 10 bud om dagen, om man will, med fohr- <lb/>
+                  bönder, som ther dag och natt förbijfahra med koppar, järn, spar- <lb/>
+                  mål och andra persedlar, som gå upp och ifrån Fahlun och Bergs- <lb/>
+                  lagen . . . Ofwan för källorna på then sijdan som wetter moot <lb/>
+                  Sahlberget, äro många höga berg och bergskullar, som hela långa <lb/>
+                  stycket bortåth alt högre och högre stijga, nedan för them liggia <lb/>
+                  åthskilliga lustiga och angenähma ängiar, och kring om the sam- <lb/>
+                  ma så wäl som på alla sijdor om brunnarna finnas innom några<lb/>
+               </quote>
+            </p>
+            <p rend="left">
+               3
+            </p> 
+         </div>
+         <pb/>
+         
+         
+         
+         
+         <pb n="18"/>
+         <div type="page">
+            
+            <p>tarer om antal rum, fönster och takmaterial. Vissa byggnader har <lb/>
+               utsatta mått, vilket underlättar en rekonstruktion. Frånsett att <lb/>
+               synen redovisar ett större antal rum för vissa byggnader än kartan <lb/>
+               är överensstämmelsen mycket god. Sannolikt har under de år som <lb/>
+               skiljer dokumenten åt en del lättare väggar eller avbalkningar <lb/>
+               slagits ut. Logementsbyggnaderna har troligen haft en planlösning <lb/>
+               med entré från gårdssidan till en korridor med symmetriskt ord- <lb/>
+               nat två kamrar på var sida. Endast ena korridorväggen är upp- <lb/>
+               förd av timmer. Några hus består av två rum ev. med förstuga. <lb/>
+               Övriga inkvarteringshus har haft direkt entré utifrån till varje <lb/>
+               rum.</p>
+            <p><l rend="indent">Matsalsbyggnaden (nr 5 på bild 6) torde av måtten att döma </l>
+               ha innehållit en tämligen stor sal, ca 8X8 m, och är som enda <lb/>
+               byggnad uppförd i två våningar. Den traditionen bär brunnen <lb/>
+               fortfarande levande vittnesbörd om, när i dag den s.k. Ofvan- <lb/>
+               dahls konditoribyggnad ensam reser sig över den övriga envå- <lb/>
+               ningsmassan (bild 10).</p>
+            <p><l rend="indent">Regeln om den konsekventa slutenheten mot stora kopparvä- </l>
+               gen har dock sitt undantag. Två dörrar vetter häråt: dels en köks- <lb/>
+               dörr och dels en sidoordnad dörr i ett av logementen. Den senare <lb/>
+               är sannolikt en entré till läkarmottagningen, som ju bör ha haft <lb/>
+               ett centralt läge och varit bekvämt åtkomlig från alla håll.</p>
+            <p><l rend="indent">Inne på brunnsgården har vi traktörns kök och bostad (nr 16). </l>
+               Maten bars över till matsalen vid vägen. Det är ytterligare en tra- <lb/>
+               dition som brunnen än i dag, helt unikt bevarar, när fyllda eller <lb/>
+               tomma matkorgar varje dag bärs över brunnsgården mellan kök <lb/>
+               och matsalar.</p>
+            <p><l rend="indent">Privatbostäderna innehåller i allmänhet två rum, ett mindre </l>
+               och ett större. Av skorstensplaceringarna att döma har de haft en <lb/>
+               eldstad mitt i tvärväggen. Köken ligger strax intill som små ku- <lb/>
+               ber. Endast en person har i det centrala brunnsområdet uppfört <lb/>
+               en regelrätt anläggning med ståndsmässig huvudbyggnad och flyg- <lb/>
+               lar. Det är akademiräntmästaren Herman Wallrave vars bostad <lb/>
+               (nuvarande Mathiesen) liknar en förkrympt herrgård med köks- <lb/>
+               och betjäntflyglar. Stora huset har förstuga och stor sal rakt fram <lb/>
+               och åt sidorna vardera två gavelkamrar. Anläggningen sidoordnar <lb/>
+               sig brunnsgården.</p>
+            <p><l rend="indent">Längre österut, på höjdryggen, och helt lösgjort från brunnens </l>
+               centrum ligger Assessor Adlerbaums hus (inte Adlerheim, en fel- <lb/>
+               läsning av samtliga brunnens skildrare med tradition ända från</p>
+            <p rend="left">18</p>
+         </div>
+      </body>
+  </text>
+</TEI>
