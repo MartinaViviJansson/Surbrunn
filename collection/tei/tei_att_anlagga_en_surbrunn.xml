@@ -81,11 +81,11 @@
          <pb/>
          
          <pb n="4"/>
-         <div type="page">
+         <div type="page">            
             
-       <figure>
-         <graphic url= "C:\Users\elina\OneDrive\Dokument\GitHub\Surbrunn\collection\img\bilder\4_bild.jpg"/>
-       </figure>  
+            <figure>
+               <graphic url= "C:/Users/elina/OneDrive/Dokument/GitHub/Surbrunn/collection/img/bilder/4_bild.jpg"/>
+            </figure> 
           
           
           <p> <emph rend="italic">   Bild I. Rekonstruktion av terrängen i <rs type="place">Sätra</rs> före brunnens uppbyggnad. Lands- <lb/>
