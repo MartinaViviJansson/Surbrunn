@@ -276,7 +276,7 @@
             <figure>
                <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/20_bild.jpg"/>
             </figure>
-            <p><emph rend="italics">Bild 8. <rs type="place">Medevi brunn</rs>. En renritning av en karta från 1707, Norr är nedåt på <lb/>
+            <p rend="center"><emph rend="italics">Bild 8. <rs type="place">Medevi brunn</rs>. En renritning av en karta från 1707, Norr är nedåt på <lb/>
                bilden. (<rs type="place">Linköpings</rs> lantmäterikontor).</emph></p>
             <p>hjärta. Det är Sätras första brunnssäsong och ledarskapet måste <lb/>
                lejas ut till en kollega.
@@ -309,7 +309,7 @@
             <figure>
                <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/21_bild.jpg"/>
             </figure>
-            <p><emph rend="italics">Bild 9. Sätra brunn omkring 1720 enligt rekonstruktionen. Norr uppåt på bilden.</emph></p>
+            <p rend="center"><emph rend="italics">Bild 9. Sätra brunn omkring 1720 enligt rekonstruktionen. Norr uppåt på bilden.</emph></p>
             
             <p><l rend="indent">byggelsen sluter sig mot yttervärlden. Den riktar sig med sina</l> <lb/>  
                entréer mot gatan och torget, avstänger brunnsområdet med gär- <lb/>  
@@ -394,7 +394,26 @@
             </p> 
          </div>
          
-         
+         <pb n="23"/>
+         <div type="page">
+            <figure>
+               <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/23_bild_1.jpg"/>
+                  </figure>
+            <p rend="center"><emph rend="italics">Bild 10. Brunnsgårdskvarteret sett från sydost. Foto från 1930-talet, Nordiska <lb/>
+               Museet. Närmast "Landshövdingen" och längre bort längs landsvägen de östra <lb/>
+               och västra landsvägsbyggnaderna. I fonden en tvåvåningsbyggnad på samma <lb/>
+            plats som den första bebyggelsens matsal.</emph></p>
+            
+            <figure>
+               <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/23_bild_2.jpg"/>
+            </figure>
+            
+            <p rend="center"><emph rend="italics">Bild 11. Brunnshuset från 1741. Foto Nordiska Museet.</emph></p>
+            
+            <p rend="right">
+               23
+            </p> 
+         </div>
       </body>
   </text>
 </TEI>
