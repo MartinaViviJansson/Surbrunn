@@ -16,7 +16,9 @@
          </sourceDesc>
       </fileDesc>
   </teiHeader>
-  <text>
+ 
+   
+   <text>
       <body>
          <pb n="3"/>
          <div type="page">
@@ -253,9 +255,52 @@
             
             <p><l rend="indent">För att underlätta en jämförelse med <rs type="place">Sätra</rs> kan man vända den </l> <lb/>        
                tidigaste kartan av <rs type="place">Medevi</rs> från 1707 upp och ned (bild 8). Be-</p>
+            
+            <p rend="left">
+               20
+            </p> 
          
          </div>
          
+         <pb n="21"/>
+         <div type="page">
+            <figure>
+               <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/21_bild.jpg"/>
+            </figure>
+            <p><emph rend="italics">Bild 9. Sätra brunn omkring 1720 enligt rekonstruktionen. Norr uppåt på bilden.</emph></p>
+            
+            <p><l rend="indent">byggelsen sluter sig mot yttervärlden. Den riktar sig med sina</l> <lb/>  
+               entréer mot gatan och torget, avstänger brunnsområdet med gär- <lb/>  
+               desgårdar mot omgivningens ängar och med staket och port mot <lb/>  
+               farvägen. Torget är utbildat som centrum men ofullständigt kring- <lb/>  
+               byggt. Endast vissa entréer med grindar mellan husen mynnar <lb/>  
+               mot brunnsparken.</p>
+            
+            <p><l rend="indent">Likheterna med <rs type="place">Sätra</rs> är uppenbara (bild 9). För båda brunnar-</l> <lb/>  
+               na gäller att i husraden mot parken förläggs brunnens institutio- <lb/>  
+               ner: doktorsmottagning, apotek, kyrka, insprängda däremellan <lb/>  
+               bostäder för brunnsgäster. Torget samlar entréerna till sig och i <lb/>  
+               mittpunkten står en stolpe. Till brunnstorget och den inre miljön <lb/>  
+               leder grindar och portar. Brunnsparken och de skuggande prome- <lb/>  
+               naderna ligger utanför. Även hospitalet placeras avskilt.</p>
+            
+            <p><l rend="indent"><rs type="place">Medevi</rs> har en påtagligt fastare, mer stadslik plantanke än</l> <lb/>  
+               <rs type="place">Sätra</rs>. Vissa uppgifter tyder dock på att den äldsta bebyggelsen <lb/>  
+               i <rs type="place">Medevi</rs> legat mitt för torget och att gatans stadsmässiga karak- <lb/>  
+               tär möjligen är en kompletterande utbyggnad under 1690-talet. <lb/>  
+               Det är ju 1693 som stadsplanen fastställs och således behovet av <lb/>  
+               en definition av utbyggnadsriktningarna blir nödvändig. Det pri- <lb/>  
+               mära skulle således ha varit institutionsraden mot parken och <lb/>  
+               torgplatsen innanför, snarlikt <rs type="place">Sätra</rs>. Man skulle här kunna tala <lb/>  
+               om en prototyp för dessa brunnar, som utvecklats olika beroende <lb/>  
+               på skillnader i de yttre förutsättningarna: allfarvägens läge och</p>
+            
+          
+            <p rend="right">
+               21
+            </p> 
+            
+            </div>
       </body>
   </text>
 </TEI>
