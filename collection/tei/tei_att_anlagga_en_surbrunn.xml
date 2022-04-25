@@ -16,7 +16,9 @@
          </sourceDesc>
       </fileDesc>
   </teiHeader>
-  <text>
+ 
+   
+   <text>
       <body>
          <pb n="3"/>
          <div type="page">
@@ -74,7 +76,7 @@
                   ma så wäl som på alla sijdor om brunnarna finnas innom några
                </quote>
             </p>
-            <p rend="left">
+            <p rend="right">
                3
             </p> 
          </div>
@@ -129,6 +131,9 @@
                   flyter synes til smaken wara starkast hafwandes i sig ock så fast <lb/>
                   flera ådrar än the andra them man til 10 a 12 kan räkna som med</quote>
             </p>
+            <p rend="left">
+               4
+            </p> 
          </div>
          
          <pb n="5"/>
@@ -268,6 +273,7 @@
             <p><l rend="indent">Längre österut, på höjdryggen, och helt lösgjort från brunnens </l>
                centrum ligger Assessor <rs type="person">Adlerbaums</rs> hus (inte Adlerheim, en fel- <lb/>
                läsning av samtliga brunnens skildrare med tradition ända från</p>
+            
             <p rend="left">18</p>
          </div>
          
@@ -313,6 +319,7 @@
                relser. Från och med 1693 är han i <rs type="place">Medevi</rs> och troligen fram till <lb/>
                1701, undantaget några säsonger för resor till <rs type="place">Norrland</rs> och <rs type="place">Ryss- <lb/>
                land.</rs> Är 1701 kan han knappast vara i <rs type="place">Medevi</rs> med hela sitt</p>
+           
             <p rend="right">
                19
             </p> 
@@ -323,7 +330,7 @@
             <figure>
                <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/20_bild.jpg"/>
             </figure>
-            <p><emph rend="italics">Bild 8. <rs type="place">Medevi brunn</rs>. En renritning av en karta från 1707, Norr är nedåt på <lb/>
+            <p rend="center"><emph rend="italics">Bild 8. <rs type="place">Medevi brunn</rs>. En renritning av en karta från 1707, Norr är nedåt på <lb/>
                bilden. (<rs type="place">Linköpings</rs> lantmäterikontor).</emph></p>
             <p>hjärta. Det är Sätras första brunnssäsong och ledarskapet måste <lb/>
                lejas ut till en kollega.
@@ -344,9 +351,123 @@
             
             <p><l rend="indent">För att underlätta en jämförelse med <rs type="place">Sätra</rs> kan man vända den </l> <lb/>        
                tidigaste kartan av <rs type="place">Medevi</rs> från 1707 upp och ned (bild 8). Be-</p>
+            
+            <p rend="left">
+               20
+            </p> 
          
          </div>
          
+         <pb n="21"/>
+         <div type="page">
+            <figure>
+               <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/21_bild.jpg"/>
+            </figure>
+            <p rend="center"><emph rend="italics">Bild 9. Sätra brunn omkring 1720 enligt rekonstruktionen. Norr uppåt på bilden.</emph></p>
+            
+            <p><l rend="indent">byggelsen sluter sig mot yttervärlden. Den riktar sig med sina</l> <lb/>  
+               entréer mot gatan och torget, avstänger brunnsområdet med gär- <lb/>  
+               desgårdar mot omgivningens ängar och med staket och port mot <lb/>  
+               farvägen. Torget är utbildat som centrum men ofullständigt kring- <lb/>  
+               byggt. Endast vissa entréer med grindar mellan husen mynnar <lb/>  
+               mot brunnsparken.</p>
+            
+            <p><l rend="indent">Likheterna med <rs type="place">Sätra</rs> är uppenbara (bild 9). För båda brunnar-</l> <lb/>  
+               na gäller att i husraden mot parken förläggs brunnens institutio- <lb/>  
+               ner: doktorsmottagning, apotek, kyrka, insprängda däremellan <lb/>  
+               bostäder för brunnsgäster. Torget samlar entréerna till sig och i <lb/>  
+               mittpunkten står en stolpe. Till brunnstorget och den inre miljön <lb/>  
+               leder grindar och portar. Brunnsparken och de skuggande prome- <lb/>  
+               naderna ligger utanför. Även hospitalet placeras avskilt.</p>
+            
+            <p><l rend="indent"><rs type="place">Medevi</rs> har en påtagligt fastare, mer stadslik plantanke än</l> <lb/>  
+               <rs type="place">Sätra</rs>. Vissa uppgifter tyder dock på att den äldsta bebyggelsen <lb/>  
+               i <rs type="place">Medevi</rs> legat mitt för torget och att gatans stadsmässiga karak- <lb/>  
+               tär möjligen är en kompletterande utbyggnad under 1690-talet. <lb/>  
+               Det är ju 1693 som stadsplanen fastställs och således behovet av <lb/>  
+               en definition av utbyggnadsriktningarna blir nödvändig. Det pri- <lb/>  
+               mära skulle således ha varit institutionsraden mot parken och <lb/>  
+               torgplatsen innanför, snarlikt <rs type="place">Sätra</rs>. Man skulle här kunna tala <lb/>  
+               om en prototyp för dessa brunnar, som utvecklats olika beroende <lb/>  
+               på skillnader i de yttre förutsättningarna: allfarvägens läge och</p>
+            
+          
+            <p rend="right">
+               21
+            </p> 
+            </div>
+         
+         <pb n="22"/>
+         <div type="page">
+            <p>topografins möjligheter. Gatan inom brunnsområdet utvecklades <lb/> 
+               rikare i <rs type="place">Medevi</rs> genom att den kunde skyddas från den allmänna <lb/> 
+               trafiken på vägen. För <rs type="place">Sätras</rs> del gällde det att skydda brunns- <lb/> 
+               gården från kopparvägens trafiktryck samtidigt som byggnads- <lb/> 
+               ytan av topografiska skäl var mer begränsad. Torget — brunns- <lb/> 
+               gården utvecklades på vägen—gatans bekostnad. Bland husens <lb/> 
+               planlösningar känns karaktären av logementen i <rs type="place">Sätra</rs> igen från <lb/> 
+               <rs type="place">Medevi</rs>. Däremot förekommer den för <rs type="place">Medevi</rs> typiska korridors- <lb/> 
+               planen inte i <rs type="place">Sätra</rs>.</p>
+            
+            <p><l rend="indent">Vad <rs type="person">Skragge</rs> fått med sig från <rs type="place">Medevi</rs> är grundtanken i miljön,</l> <lb/> 
+               inte stort mer. Likheterna får naturligtvis inte hårddras men kan <lb/> 
+               heller inte avvisas.</p>
+            
+            <p><l rend="indent">Såvitt det är bekant har i <rs type="place">Sverige</rs> inte byggts några brunnsan-</l> <lb/> 
+               läggningar med torget—gården som en sluten miljö skild från <lb/> 
+               källan—brunnen mer än <rs type="place">Medevi</rs> och <rs type="place">Sätra</rs>. Var den har sitt <lb/> 
+               egentliga ursprung är obekant. Här har möjligen <rs type="person">Urban Hjärne</rs> <lb/> 
+               en roll som förmedlare av förebilder. Ett studium av de kända <lb/> 
+               brunnarna på kontinenten borde vara av intresse. <rs type="person">Hjärnes</rs> själv- <lb/> 
+               biografi räknar upp ett antal kontinentala brunnar som han be- <lb/> 
+               sökt, men utan kommentarer om bebyggelsen. Det enda tillfälle, <lb/> 
+               då hans miljöintryck kommer tydligare fram gäller ett besök 1670 <lb/> 
+               i den franska staden <rs type="place">Richelieu</rs>, om vilken han förtjust skriver: <lb/> 
+               "staden av lika bygde Hus af en fason, som är mycket wakert att <lb/> 
+               bese". <rs type="place">Richelieus</rs> stadsplan med stängda torgbildningar och en <lb/> 
+               central gatuaxel har också vissa likheter med <rs type="place">Medevi</rs> och har <lb/> 
+               kanske influerat <rs type="person">Hjärne</rs>. Stadsplanetanken är dock föga originell <lb/> 
+               i det samtida <rs type="place">Sverige</rs>, där renässansstadens ideal just då slår ige- <lb/> 
+               nom. Samtidigt kan man referera till <rs type="person">Hjärnes</rs> egen beskrivning av <lb/> 
+               en surbrunns behov i hans skrift från 1707 om hälsobrunnars <lb/> 
+               brukande, där han egentligen kräver endast en samling skjul för <lb/> 
+               de nödvändigaste behoven för att skydda brunnsgästerna från <lb/> 
+               svårare umbäranden.<note n="12">12</note>) Något krav på miljön eller en fastare or- <lb/> 
+               ganisation av byggnaderna förekommer inte. Frågan kunde dock <lb/> 
+               vara värd en vidare utredning. </p>
+            
+            <p><emph rend="italics">Den fortsatta utvecklingen</emph></p>
+            
+            <p><l rend="indent">Som ovan beskrivits var <rs type="place">Sätra brunns</rs> tillstånd till vissa delar</l> <lb/> 
+               redan 1720 präglat av slitage och skavanker. Under de följande <lb/> 
+               årtiondena kom den ena byggnaden efter den andra att ersättas <lb/> 
+               av nya. 1739 övertar provinsialläkaren i <rs type="place">Västmanland</rs> <rs type="person">Wallentin</rs> </p>
+          
+            <p rend="left">
+               22
+            </p> 
+         </div>
+         
+         <pb n="23"/>
+         <div type="page">
+            <figure>
+               <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/23_bild_1.jpg"/>
+                  </figure>
+            <p rend="center"><emph rend="italics">Bild 10. Brunnsgårdskvarteret sett från sydost. Foto från 1930-talet, Nordiska <lb/>
+               Museet. Närmast "Landshövdingen" och längre bort längs landsvägen de östra <lb/>
+               och västra landsvägsbyggnaderna. I fonden en tvåvåningsbyggnad på samma <lb/>
+            plats som den första bebyggelsens matsal.</emph></p>
+            
+            <figure>
+               <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/23_bild_2.jpg"/>
+            </figure>
+            
+            <p rend="center"><emph rend="italics">Bild 11. Brunnshuset från 1741. Foto Nordiska Museet.</emph></p>
+            
+            <p rend="right">
+               23
+            </p> 
+         </div>
       </body>
   </text>
 </TEI>
