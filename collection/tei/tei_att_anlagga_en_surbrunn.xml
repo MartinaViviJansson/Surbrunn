@@ -6,13 +6,31 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>ATT ANLÄGGA EN SURBRUNN En studie kring Sätra brunns första utbyggnad</title>
+            <author>Ove Hidemark</author>
+            <principal>Martina Jansson och Elina Isebring</principal>
+            
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Examination för kursen Digitising Cultural Heritage Material 32LDK1 vid Högskolan i Borås <date>vårterminen 2022</date></p>
+          
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <biblStruct>
+            
+               <monogr>
+                  <title>ATT ANLÄGGA EN SURBRUNN En studie kring Sätra brunns första utbyggnad</title>
+                  <imprint>
+                     <publisher>Västmanlands Fornminnesförening</publisher>
+                     <pubPlace>Västerås</pubPlace>
+                     <biblScope unit="page" n="37">37 pages</biblScope>
+                     <distributor>VLT-press</distributor>
+                  </imprint>
+               </monogr>
+               <relatedItem><bibl>Källan som den här elektroniska publiceringen baseras på är ett särtryck
+               ur Västmanlands Fornminnesförenings Årsskrift 1972</bibl></relatedItem>
+               
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
