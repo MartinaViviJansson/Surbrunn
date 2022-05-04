@@ -1522,6 +1522,10 @@
             <pb/>
             <pb/>
             <pb/>
+         <pb/>
+         <div type="page">
+            <figure> <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/baksida.jpg"></graphic></figure>
+         </div>
       </body>
   </text>
 </TEI>
