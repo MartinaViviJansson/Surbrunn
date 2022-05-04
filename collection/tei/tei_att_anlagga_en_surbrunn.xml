@@ -43,7 +43,8 @@
          
          <pb/>
          <pb/>
-         <p rend="center">
+         <div type="titlepage">
+            <p rend="center">
          <title>ATT ANLÄGGA EN SURBRUNN </title><lb/>
            <title> <emph rend="italic">En studie kring Sätra brunns första utbyggnad</emph></title>
          </p>
@@ -51,6 +52,10 @@
          <p rend="center"> AV <rs type="person">OVE HIDEMARK</rs></p>
          
          <p rend="center"><emph rend="italic">Särtryck ur västmanlands Fornminnesförenings Årsskrift L 1972</emph></p>
+         </div>
+         
+         <pb/>
+         <div type="page"><p rend="center"> VLT-press <rs type="place">Västerås</rs> 1972</p></div>
          
          <pb n="3"/>
          <div type="page">
