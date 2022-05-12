@@ -12,7 +12,8 @@
             
          </titleStmt>
          <publicationStmt>
-            <p>Examination för kursen Digitising Cultural Heritage Material 32LDK1 vid Högskolan i Borås <date>vårterminen 2022</date></p>
+            <p>Examination för kursen Digitising Cultural Heritage Material 32LDK1 vid Högskolan i Borås <date>vårterminen 2022</date> som 
+            publiceras via Github online. </p>
           
          </publicationStmt>
          <sourceDesc>
@@ -20,7 +21,7 @@
             
                <monogr>
                   <title>ATT ANLÄGGA EN SURBRUNN En studie kring Sätra brunns första utbyggnad</title>
-               
+               <author>Ove Hidemark</author>
                   <imprint>
                      <publisher>Västmanlands Fornminnesförening</publisher>
                      <pubPlace>Västerås</pubPlace>
@@ -40,20 +41,6 @@
    
    <text>
       <body>
-         <div type="frontpage">
-         
-         <figure>
-            <graphic url= "C:/Users/elina/OneDrive/Dokument/GitHub/Surbrunn/collection/img/bilder/Framsida.jpg"/>
-         </figure>
-         
-            <p rend="center">
-               <title>ATT ANLÄGGA EN SURBRUNN </title><lb/>
-               <title> <emph rend="italic">En studie kring Sätra brunns första utbyggnad</emph></title>
-            </p>
-            
-            <p rend="center"> AV <rs type="person">OVE HIDEMARK</rs></p>
-            
-            </div>
          
          <pb/>
          <pb/>
