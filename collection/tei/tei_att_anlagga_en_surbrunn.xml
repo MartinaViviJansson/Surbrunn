@@ -41,7 +41,9 @@
    
    <text>
       <body>
-         
+         <div type="page">
+            <figure> <graphic url="/Users/martinajansson/Documents/GitHub/Surbrunn/collection/img/bilder/Framsida.jpg"></graphic></figure>
+         </div>
          <pb/>
          <pb/>
          <div type="titlepage">
