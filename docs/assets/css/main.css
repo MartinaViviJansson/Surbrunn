@@ -28,6 +28,9 @@ h3 {
     padding: 1vw;
     
 }
+figcaption {
+    font-size: x-small
+}
 
 #details {
     padding: 2vw;
