@@ -8,10 +8,19 @@ body {
   width: 100%;
 	}
 
-h1, h2, h3, nav, footer {
+h1, nav, footer {
     text-align: center;
+    line-height: 0.8;
 }
-
+h2 {
+    text-align:center;
+    font-style:italic;
+    font-size:1vw;
+}
+h3 {
+  text-align:center;
+    font-size:1vw;  
+}
 nav {
     margin-bottom: 1vw;
     border-top: 1px solid black;
@@ -23,11 +32,7 @@ h2 {
     padding: 1vw;
 }
 
-h3 {
-    font-weight: bold;
-    padding: 1vw;
-    
-}
+
 figcaption {
     font-size: x-small
 }
