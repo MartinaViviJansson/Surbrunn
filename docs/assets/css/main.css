@@ -1,11 +1,12 @@
 
 
 body {
-	padding: 1vw;
+	padding: 5vw;
 	font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
 	line-height: 1.5;
 	font-size: 1vw;
-  width: 100%;
+  width: 100%; 
+ 
 	}
 
 h1, nav, footer {
@@ -32,8 +33,17 @@ h5{
  font-style:italic;
 }
 
+h6{
+    text-align:left;
+    font-size:1vw;
+}
+h7 {
+   text-align:right;
+    font-size:1vw; 
+}
+
 div.b {
-    text-indent: 50px;
+    text-indent: 40px;
 }
 
 nav {
