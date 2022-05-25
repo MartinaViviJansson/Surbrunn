@@ -6,7 +6,6 @@ body {
 	line-height: 1.5;
 	font-size: 1vw;
   width: 100%; 
- 
 	}
 
 h1, nav, footer {
@@ -45,14 +44,14 @@ div.a {
     margin-left:5vw;
     margin-right:5vw;
     font-size: 1vw;
-   
+text-align: justify;
 }
 div.b {
     text-indent: 40px;
     margin-left:5vw;
     margin-right:5vw;
     font-size: 1vw;
-    
+    text-align: justify;
 }
 
 nav {
