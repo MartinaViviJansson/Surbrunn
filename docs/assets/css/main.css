@@ -31,6 +31,7 @@ h4 {
 h5{
  font-size:1vw;  
  font-style:italic;
+ margin-left:5vw
 }
 
 h6{
@@ -41,7 +42,9 @@ h7 {
    text-align:right;
     font-size:1vw; 
 }
-
+div.a {
+    margin-left:5vw
+}
 div.b {
     text-indent: 40px;
     margin-left:5vw
