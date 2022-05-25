@@ -30,7 +30,7 @@ h4 {
 h5{
  font-size:1vw;  
  font-style:italic;
- margin-left:6vw;
+ margin-left:6.1vw;
  margin-right:8.4vw
 }
 
@@ -41,14 +41,14 @@ h6 {
     
 }
 div.a {
-    margin-left:6vw;
+    margin-left:6.1vw;
     margin-right:8.4vw;
     font-size: 1vw;
 text-align: justify;
 }
 div.b {
     text-indent: 30px;
-    margin-left:6vw;
+    margin-left:6.1vw;
     margin-right:8.4vw;
     font-size: 1vw;
     text-align: justify;
