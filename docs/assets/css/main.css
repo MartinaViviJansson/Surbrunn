@@ -28,7 +28,7 @@ h4 {
     font-style:italic;
 }
 h5{
- font-size:1.1vw;  
+ font-size:1vw;  
  font-style:italic;
  margin-left:6vw;
  margin-right:8.4vw
@@ -36,21 +36,21 @@ h5{
 
 h6 {
    text-align:right;
-    font-size:1.1vw; 
+    font-size:1vw; 
     margin-right:8.4vw;
     
 }
 div.a {
     margin-left:6vw;
     margin-right:8.4vw;
-    font-size: 1.1vw;
+    font-size: 1vw;
 text-align: justify;
 }
 div.b {
     text-indent: 30px;
     margin-left:6vw;
     margin-right:8.4vw;
-    font-size: 1.1vw;
+    font-size: 1vw;
     text-align: justify;
 }
 
