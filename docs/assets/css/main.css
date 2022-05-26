@@ -38,9 +38,9 @@ h5{
 h6 {
    text-align:right;
     font-size:1vw; 
-    margin-right:8.4vw;
+    margin-right:8.4vw;}
     
-}
+
 div.a {
     margin-left:5.9vw;
     margin-right:8.4vw;
@@ -54,6 +54,14 @@ div.b {
     font-size: 1vw;
     text-align: justify;
 }
+
+div.c {
+    margin-left:5.9vw;
+    margin-right:8.4vw;
+    font-size: 0.8vw;
+    text-align: justify;
+    font-style:italic;
+    }
 
 nav {
     margin-bottom: 1vw;
