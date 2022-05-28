@@ -12,9 +12,10 @@
             
          </titleStmt>
          <publicationStmt>
+            
             <p>Examination för kursen Digitising Cultural Heritage Material 32LDK1 vid Högskolan i Borås <date>vårterminen 2022</date> som 
             publiceras via Github online. </p>
-          
+           
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
@@ -22,12 +23,16 @@
                <monogr>
                   <title>ATT ANLÄGGA EN SURBRUNN En studie kring Sätra brunns första utbyggnad</title>
                <author>Ove Hidemark</author>
+                  <availability>
+                     <p>Copyright: 1972 Ove Hidemark</p>
+                     <p>Copyright för vår transkriberade text tillhör Ove Hidemark som dog 2015. Hans änka Elisabet Hidemark
+                     har skriftligen gett oss tillåtelse att publicera och tillgängliggöra texten.</p>
+                  </availability>
                   <imprint>
                      <publisher>Västmanlands Fornminnesförening</publisher>
                      <pubPlace>Västerås</pubPlace>
                      <biblScope unit="page" n="37">37 pages</biblScope>
-                     <distributor>VLT-press</distributor>
-                     
+                     <distributor>VLT-press</distributor> 
                   </imprint>
                </monogr>
                <relatedItem><bibl>Källan som den här elektroniska publiceringen baseras på är ett särtryck
@@ -88,8 +93,7 @@
                risbäddarna och kavelbroarnas gungflyn
             </p> 
             
-            <p>
-               <l rend="indent">När den gamla landsvägen — kopparvägen — lämnade den </l> 
+            <p> När den gamla landsvägen — kopparvägen — lämnade den <lb/>
                sista udden av <rs type="place">Badelundaåsen</rs> tvingades den att intill torpet. Bro- <lb/>
                arne söka sig över den nordligaste delen av <rs type="place">Solingemyren</rs> innan <lb/>
                den på nytt kunde nå fast mark strax innan <rs type="place">Sätra by</rs>. Det är i <lb/>
@@ -101,7 +105,7 @@
             
             <p>
                <quote>
-                  <l rend="indent">"Thesse alle brunnar eller källor äro belägne straxt wid stora</l> 
+                  "Thesse alle brunnar eller källor äro belägne straxt wid stora <lb/>
                   landsvägen, som löper ifrån <rs type="place">Wästerås</rs> til <rs type="place">Fahlun</rs>, 3 mijhl ohnge- <lb/>
                   fär ifrån <rs type="place">Wästerås</rs> och 1 och en fierdedehls mijhl från <rs type="place">Sahlber- <lb/>
                   get</rs>, från hwilka städer man dageligen och stundeligen kan hafwa <lb/>
@@ -142,12 +146,12 @@
             </p>
             
             <p>
-               <l rend="indent">Beskrivningen är <rs type="person">Skragges</rs> egen och skildrar situationen kring</l> 
+               Beskrivningen är <rs type="person">Skragges</rs> egen och skildrar situationen kring <lb/>
                källorna då brunnsrörelsen startar.
             </p>
             
             <p>
-               <l rend="indent">Vad upptäckten i själva verket gäller är naturligtvis vattnets</l> 
+               Vad upptäckten i själva verket gäller är naturligtvis vattnets <lb/>
                kvalitet ur medicinsk synpunkt, inte förekomsten av källsprången <lb/>
                som sådana. Dessa, i varje fall några av dem, har bevisligen varit <lb/>
                kända långt före <rs type="person">Skragges</rs> ankomst. Den direkta anledningen till <lb/>
@@ -162,7 +166,7 @@
             </p>
             
             <p>
-               <l rend="indent">Som provinsialläkare i <rs type="place">Västmanland</rs> sedan 1685 borde <rs type="person">Skragge</rs> </l> 
+               Som provinsialläkare i <rs type="place">Västmanland</rs> sedan 1685 borde <rs type="person">Skragge</rs> <lb/> 
                rimligen ha observerat källorna vid sina många resor i länet. De- <lb/>
                ras tydlighet och styrka är påfallande. <rs type="person">Skragge</rs> skriver själv om <lb/>
                dem: <quote>"The äro på thet ena stället som ligger på Sätrans bys ägor <lb/>
@@ -197,7 +201,7 @@
                hon til badande bäst brukas."<note n="2">2</note>)</p>
             
             <p>
-               <l rend="indent">Dessa kommentarer är dock inte den enda dokumentation som </l>
+               Dessa kommentarer är dock inte den enda dokumentation som <lb/>
                tidigt kommit källorna till del. Ett äldre kartmaterial från 1600- <lb/>
                talets senare hälft, hittills obeaktat, ger tydliga anvisningar inte <lb/> 
                bara om källornas läge utan också om dess benämning. Äldst är <lb/>
@@ -218,35 +222,35 @@
          <pb n="6"/>
          <div type="page"> 
             
-            <p><l rend="indent"> Nästa dokument är en odaterad karta där källans läge och </l> 
+            <p> Nästa dokument är en odaterad karta där källans läge och  <lb/>
                kopparvägens sträckning är tydligt redovisade. Här är källan<lb/> 
                namngiven "Märefors kiällan", klar svenska i sin helhet och fort-<lb/>  
                farande med stavelsen "mär". Teoretiskt sett kan motsatsen ha <lb/>
                inträffat, att en lantmätare läst phons som fors och praktiskt <lb/>
                försvenskat namnet. Kartan är klart yngre än den föregående.<lb/> </p>
             
-            <p><l rend="indent">En karta från 1699, året för <rs type="person">Per Gyllenhööks</rs> lyckosamma be- </l> 
+            <p>En karta från 1699, året för <rs type="person">Per Gyllenhööks</rs> lyckosamma be-  <lb/>
                sök, visar terrängavsnittet med torpen Broarne och Fängsbacken <lb/>
                namngivna, men saknar källmarkering.</p>
             
-            <p> <l rend="indent">Några av kartorna visar belägenheten av kopparvägen tydligt. </l>
+            <p> Några av kartorna visar belägenheten av kopparvägen tydligt. <lb/>
                Ängar och myrmarker ansluter på båda sidor. <rs type="place">Sätra by</rs>, några <lb/>
                hundra meter västerut längs vägen, markeras med sedvanliga hus-<lb/> 
                symboler.</p>
             
-            <p><l rend="indent">Hur namnet än tolkas, kvarstår bevisen för en klar tradition</l> 
+            <p>Hur namnet än tolkas, kvarstår bevisen för en klar tradition <lb/>
                av källan som känd och namngiven. <rs type="person">Skragge</rs> uppfattade aldrig <lb/>
                egennamnet, annars kände vi kanske i <rs type="place">Sverige</rs> bättre <rs type="place">Märfors</rs> <lb/>
                hälsobrunn än <rs type="place">Sätra</rs>.</p>
             
-            <p> <l rend="indent"><rs type="name">Skragges</rs> fyndighet, men också respekt för den kristna tradi-</l> 
+            <p> <rs type="name">Skragges</rs> fyndighet, men också respekt för den kristna tradi- <lb/>
                tionen, återförde källans namn till kristen symbolik: "man har <lb/> 
                funnit skiäligt at efter som the igenom ett litet begrep äro 3 til <lb/>
                antalet kalla them HELGA TREFALDIGHETS KÄLLOR af <lb/>
                hwilkens nåd och wälsignelse the ock hafwa sin kraft och <lb/>
                werkan".<note n="41">3</note>)</p>
             
-            <p><l rend="indent">Namngivandet av själva källorna var raskt undanstökat. Mär-</l> 
+            <p>Namngivandet av själva källorna var raskt undanstökat. Mär- <lb/>
                phons källa tillmättes nu oegentligt förmågan att äga trefaldig- <lb/>
                hetsnattens kraft. Den rinner klart mot söder och ej mot norr som <lb/> 
                sådana källor bör. Övriga källor benämndes Segerkällan efter det <lb/>
@@ -261,7 +265,7 @@
                Det är först inemot århundradets mitt som namnet stabiliseras till <lb/>
                Sätra Brunn.</p>
             
-            <p><l rend="indent"> Hur växte bebyggelsen fram kring den plats som källorna be-</l> 
+            <p> Hur växte bebyggelsen fram kring den plats som källorna be- <lb/>
                stämde? Även här finns vissa dokument och spridda uppgifter <lb/>
                som tillsammans ger klarhet. Innan vi närmar oss dessa kan emel-</p>
             <p rend="left">
@@ -277,7 +281,7 @@
             
             <p><emph rend="italic">Grundaren</emph></p>
             
-            <p> <l rend="indent">Vid starten år 1700 av Sätra brunn är <rs type="person">Skragge</rs> en erfaren </l> 
+            <p>Vid starten år 1700 av Sätra brunn är <rs type="person">Skragge</rs> en erfaren  <lb/>
                "wattuprofware" sedan 16 år. Hans nära vän <rs type="person">Urban Hjärne</rs> gav <lb/>
                honom tidigt på 1680-talet intresset för vattnet som botande och<lb/> 
                förebyggande behandlingsmedel. Det var helt i den anda som <lb/>
@@ -289,7 +293,7 @@
                mänsklighet, som styrde hans ambitioner — en känsla för lönsam <lb/>
                företagsamhet syns honom inte alldeles främmande.</p>
             
-            <p><l rend="indent">Hans studieresor 1684 går till <rs type="place">Holland</rs> och <rs type="place">England</rs> där han </l>
+            <p>Hans studieresor 1684 går till <rs type="place">Holland</rs> och <rs type="place">England</rs> där han <lb/>
                enligt egen utsago "med flijt bewistade och besökte alle der be-<lb/> 
                kante suurbrunnar". Hemkommen utnämns han till provinciallä- <lb/>
                kare i <rs type="place">Västmanland</rs>, startar apoteksrörelse i <rs type="place">Nyköping</rs> samt upp- <lb/>
@@ -307,7 +311,7 @@
                Här lyckas han under de sista åren av sitt liv — han dog 1718 — <lb/>
                skapa en brunnsverksamhet, som består ännu i dag.</p>
             
-            <p><l rend="indent">Hans lycka är uppenbar när Sätravattnet vid analys visar bäs- </l> 
+            <p>Hans lycka är uppenbar när Sätravattnet vid analys visar bäs- <lb/> 
                ta tänkbara värden. År 1701 undersöker även <rs type="person">Hjärne</rs> vattnet och <lb/>
                finner att <quote>"desse vatten de Medewijske lijtet lära eftergifwa . . .<lb/>
                I baad hoppas jag at de mycket större Curer lära giöra än Mede- <lb/>
@@ -335,17 +339,17 @@
                taren rörande brunnens uppbyggnad. Första brunnsterminen var <lb/>
                1701. Husen bör således ha byggts 1702.</p>
             
-            <p><l rend="indent">Detta var de första åtgärderna för att i det vattensjuka land- </l>
+            <p>Detta var de första åtgärderna för att i det vattensjuka land- <lb/>
                skapet skapa en surbrunn med de bästa förutsättningar och en stor <lb/>
                förväntan på en givmild framtid.</p>
             
             <p><emph rend="italics">Förebilder</emph></p>
-            <p><l rend="indent">Hur såg en gängse surbrunn ut vid den tiden, vad krävdes av </l>
+            <p>Hur såg en gängse surbrunn ut vid den tiden, vad krävdes av <lb/>
                bekvämlighet och social eller materiell försörjning? Med andra <lb/>
                ord: vilka förebilder stod <rs type="person">Skragge</rs> närmast? En högst normal sur- <lb/>
                brunns struktur och beståndsdelar kan beskrivas enligt följande.</p>
             
-            <p><l rend="indent">Källan är helt naturligt utgångspunkten för planläggningen,</l>
+            <p>Källan är helt naturligt utgångspunkten för planläggningen,<lb/>
                ett centrum för vattnets tillbedjan och nyttjande. Den kringgär- <lb/>
                das av en skyddsvall eller isättning av bräder till skydd för in- <lb/>
                fallande jord. Dessutom bör vattnet skyddas från solen för att <lb/>
@@ -359,7 +363,7 @@
                <rs type="place">Söderköping</rs>, enligt Suecia antiqua, eller det första brunnshuset i  <lb/>
                <rs type="place">Medevi</rs>.</p>
             
-            <p><l rend="indent">I anslutning till brunnshuset arrangeras en promenad, antingen </l>
+            <p>I anslutning till brunnshuset arrangeras en promenad, antingen <lb/>
                i det fria under svalkande trädkronor eller i öppna halvskuggiga <lb/>
                loggior eller pelarhallar. Vattnets medicinska verkan på kroppen <lb/>
                ansågs stegrad genom en lagom, inte alltför häftig, kroppsrörelse <lb/>
@@ -387,7 +391,7 @@
             
             <p>ligt kantades av små hemlighus. Dygnskonsumtionen av vatten <lb/>
                var enorm.</p>
-            <p> <l rend="indent">Härnäst kommer en rad institutioner nödvändiga för gästernas </l>
+            <p> Härnäst kommer en rad institutioner nödvändiga för gästernas <lb/>
                välfärd och trivsel: apotek, matsalar, bostäder, kyrka, fängelse, <lb/>
                stallar och vagnslider och även salutorg, det sistnämnda för för- <lb/>
                säljning av traktens småhantverk, matvaror, törstskapande små <lb/>
@@ -406,7 +410,7 @@
          <pb n="10"/>
          <div type="page">
             
-            <p><l rend="indent">De välsituerade hyrde in sig i de bostadsrum brunnen erbjöd.</l>
+            <p>De välsituerade hyrde in sig i de bostadsrum brunnen erbjöd.<lb/>
                Allmogen utnyttjade kringliggande gårdar eller sov i det fria. <lb/>
                Hjonen hamnade på hospitalet om brunnens fattigkassa kunde <lb/>
                erbjuda logi. Samtliga utnyttjade dock brunnshuset, men inte sam- <lb/>
@@ -416,7 +420,7 @@
                klockan 5 och fint folk klockan 6, rätt tidigt även för de senare <lb/>
                ty vattnets kraft ansågs gradvis minska under den varma dagen.</p>
             
-            <p><l rend="indent">En surbrunns uthyrningsmöjligheter måste ju alltid vara be- </l>
+            <p>En surbrunns uthyrningsmöjligheter måste ju alltid vara be- <lb/>
                gränsade, dessutom troligen inte alltid heller så bekväma. Därför <lb/>
                lockades också många att efter några lyckade brunnssäsonger <lb/>
                uppföra egna bostäder i anslutning till de nämnda institutionerna. <lb/>
@@ -425,19 +429,19 @@
             
             <p><emph rend="italics"> Den första planen </emph> </p>
             
-            <p><l rend="indent">Genom framför allt två dokument är det möjligt att få en upp-</l> 
+            <p>Genom framför allt två dokument är det möjligt att få en upp- <lb/>
                fattning om <rs type="place">Sätra</rs> hälsobrunns första utbyggnadsperiod: ett sy- <lb/>
                neinstrument från år 1716 <note n="6">6</note>) samt en karta över <rs type="place">Kijla</rs> Brunn från <lb/>
                århundradets första årtionden.7)</p>
             
-            <p><l rend="indent"> Kartan är odaterad och visar brunnen i en roande, lätt naiv</l> 
+            <p>Kartan är odaterad och visar brunnen i en roande, lätt naiv <lb/>
                ritteknik (bild 4). Det naiva draget till trots visar sig kartan, vid<lb/> 
                jämförelse med en modern grundkarta, ge en fullständig överens- <lb/>
                stämmelse ifråga om topografi, byggnadernas läge och inbördes <lb/>
                måttförhållanden. Kartan kan med andra ord utgöra grunden för <lb/>
                en rekonstruktion.</p>
             
-            <p><l rend="indent">Beträffande kartans ålder finns vissa nycklar. Privatpersoner</l> 
+            <p>Beträffande kartans ålder finns vissa nycklar. Privatpersoner <lb/>
                med egna anläggningar nämns vid namn. Kammarrådet, högväl- <lb/>
                borne baronen <rs type="person">Johan Casimir Fleming</rs> omnämns som parkens <lb/>
                och alléernas tillskyndare och därtill som salig. Enligt uppgift dog<lb/> 
@@ -448,7 +452,7 @@
                fälle är inte kartförfattaren bekant, varför en rimlig date- <lb/>
                ring av kartan således torde vara 1721. Övriga som levande om- <lb/>
                nämnda personer har dödsår efter 1721.</p>
-            <p><l rend="indent"> Kartan är innehållsrikare än syneinstrumentet, vilket är natur- </l>
+            <p>Kartan är innehållsrikare än syneinstrumentet, vilket är natur- <lb/>
                ligt då synen endast upptar <rs type="person">Samuel Skragges</rs> egendom, i anslut-</p>
             
             <p rend="left">10</p>
@@ -475,7 +479,7 @@
                <rs type="person">Skragges</rs> frånvaro.<note n="41">8</note>) Den privata etableringen undgick självklart  <lb/>
                allt beslag.</p>
             
-            <p><l rend="indent">Det har i tidigare beskrivningar av Sätra brunn, främst <rs type="person">Petrus</rs></l>
+            <p>Det har i tidigare beskrivningar av Sätra brunn, främst <rs type="person">Petrus</rs><lb/>
                <rs type="person">Tersmedens</rs> och <rs type="person">Ruth Rosenius-Högmans</rs>, antydningsvis fram- <lb/>
                hållits vissa byggnader som brunnens äldsta och tillhörande det  <lb/>
                första skedet av dess uppbyggnad. Detta gäller främst byggnader- <lb/>
@@ -483,7 +487,7 @@
                jämförelse mellan syninstrumentet och kartan möjliggör en kontroll <lb/> 
                och samtidigt en revision härav.</p>
             
-            <p><l rend="indent">Vid första ögonkastet visar kartan att brunnens karaktär i </l> 
+            <p>Vid första ögonkastet visar kartan att brunnens karaktär i  <lb/>
                stort sett bevarats mycket väl intill våra dagar. Byggnadernas ka-<lb/> 
                raktäristiska gruppering kring brunnsgården är redan för handen  <lb/>
                1721 (bild 5). Anmärkningsvärt är att samtliga byggnader utan  <lb/>
@@ -491,7 +495,7 @@
                med den gängse grå bebyggelsen i övrigt i landskapet klart anger  <lb/>
                pretantioner på ståndsmässighet eller krav på en stadsliknande  <lb/>
                miljö.</p>
-            <p><l rend="indent">Uppläggningen av planen tar i första hand fasta på topo-</l></p>
+            <p>Uppläggningen av planen tar i första hand fasta på topo-</p>
             
             <p rend="right">11</p>
          </div>
@@ -514,7 +518,7 @@
                ter reser sig ett 3-4 m högt bergsparti. Denna höjdsträckning har <lb/>
                en utlöpare även mot öster.</p>
             
-            <p><l rend="indent">Landsvägen och källan är givna storheter. Den bebyggelse som </l>
+            <p>Landsvägen och källan är givna storheter. Den bebyggelse som <lb/>
                avses kräver fast mark, vilket gör det naturligt att utnyttja den <lb/>
                plana terrängen nordväst om källan. Här skapas genom en krans <lb/>
                av byggnader ett brunnstorg eller en brunnsgård. Benämningen <lb/>
@@ -527,7 +531,7 @@
                raden längs kopparvägen till en självständig arkitektur, förbi <lb/>
                själva brunnsgården, är påtaglig. Lösgjord från denna byggnads- <lb/>
                grupp ligger kyrkan, på södra sidan om vägen.</p>
-            <p><l rend="indent">På en kulle omedelbart intill den något mindre rena och således</l></p>
+            <p>På en kulle omedelbart intill den något mindre rena och således</p>
             
             <p rend="left">12</p>
          </div>
@@ -536,18 +540,18 @@
          <div type="page">
             <p> mer för bad lämpade Segerkällan ca. 250 m österut från brunns- <lb/>
                gården placeras badstugan, frikopplad från all annan bebyggelse.</p>
-            <p><l rend="indent">Syneinstrumentet behandlar endast 13 byggnader, varav 11</l> <lb/>
+            <p>Syneinstrumentet behandlar endast 13 byggnader, varav 11 <lb/>
                inom det angivna brunnsområdet. Kartan upptar 30 st. och inne- <lb/>
                håller även vissa uppenbara förändringar gentemot synen.</p>
             
-            <p><l rend="indent">Översättningen av karta och syneinstrument redovisas i bil- </l>
+            <p>Översättningen av karta och syneinstrument redovisas i bil- <lb/>
                derna 6 och 7. Överensstämmelsen är påtaglig men skiljer sig <lb/>
                beträffande rummens antal. Rekonstruktionen siktar till en sam-<lb/> 
                manjämkning av kartans situation som helhet och synens detalj- <lb/>
                uppgifter angående interiörerna. Tidsmässigt skulle rekonstruk- <lb/>
                tionen kunna placeras till omkring 1720.</p>
             
-            <p><l rend="indent">Kartan benämner den öppna platsen brunnsgård. I dess mitt </l>
+            <p>Kartan benämner den öppna platsen brunnsgård. I dess mitt <lb/>
                står en rödmålad stolpe eller skampåle. Här härskar i brunnen det <lb/>
                av Kungl. Majt. 1707 för rikets surbrunnar fastställda brunns- <lb/>
                plakatet och som dess verkställare brunnsrätten. Gården förut- <lb/>
@@ -561,7 +565,7 @@
                väntande hästar. Utanför brusade, enligt dåtida begrepp, den liv- <lb/>
                liga trafiken till och från <rs type="place">Dalarna</rs>.</p>
             
-            <p><l rend="indent">Brunnsgården representerar här lika mycket den slutna bond- </l>
+            <p>Brunnsgården representerar här lika mycket den slutna bond- <lb/>
                gårdens tradition som det då moderna stadsplanetänkandet. Kvar- <lb/>
                teret i staden har sina entréer förlagda mot gården, är slutet mot <lb/>
                gatan undantaget vissa portförsedda prång mellan husen och <lb/>
@@ -569,14 +573,14 @@
                dessutom ett torgs funktioner: officiell plats med entréer för herr- <lb/>
                skapen.</p>
             
-            <p><l rend="indent">Om brunnsgården representerar kvarteret och torget samtidigt, </l>
+            <p>Om brunnsgården representerar kvarteret och torget samtidigt, <lb/>
                utbildas dock inte gatan som en normal dubbelsidig sådan. Längs <lb/>
                vägen ligger på dess norra sida en husrad som sträcker sig förbi <lb/>
                kvarterstorget. Beroende på vägens stora trafiktryck, men också <lb/>
                på den begränsade byggnadsmarken söder om landsvägen och ös- <lb/>
                ter om brunnsgården, fullföljs inte denna gatutanke.</p>
             
-            <p><l rend="indent">Längs gatan ligger de funktioner som brunnsgästen, nyss ut- </l>
+            <p>Längs gatan ligger de funktioner som brunnsgästen, nyss ut- <lb/>
                kommen ur brunnshusets svalka, vill överblicka: apotek, kök, <lb/>
                matsal, läkarmottagning, kyrka, badhus m.m. Logement med eget</p>
             
@@ -634,28 +638,28 @@
                Gärdesgårdar med grindar stänger också av stora landsvägen i <lb/>
                brunnens gränser mot öst och väst. </p>
             
-            <p><l rend="indent">Den privata bebyggelsen vidtar norr om brunnsgården. Här,</l> 
+            <p>Den privata bebyggelsen vidtar norr om brunnsgården. Här, <lb/>
                på den fria bergsryggen, placerar ett antal ståndspersoner sina <lb/>
                bostäder, differentierade i bostadsdel och kök, någon gång även <lb/>
                med betjäntflygel. Husen har fått en viss avskildhet från brunns- <lb/>
                gården men medverkar ändå avskärmande i dess miljö.</p>
             
-            <p><l rend="indent">Brunnshus och kyrka, de två sakrala institutionerna, ges plats </l>
+            <p>Brunnshus och kyrka, de två sakrala institutionerna, ges plats <lb/>
                söder om den stora kopparvägen, brunnen av naturliga skäl, kyr- <lb/>
                kan av sociala skäl. Även fängelset har, till allmän eftertanke, <lb/>
                givits en central placering.</p>
             
-            <p><l rend="indent">Längst åt väster, omedelbart vid gränsen av den inköpta och</l>
+            <p>Längst åt väster, omedelbart vid gränsen av den inköpta och<lb/>
                tillgängliga marken förläggs hospitalet — på behörigt avstånd för<lb/> 
                att inte störa de etablerades livsföring.</p>
             
-            <p><l rend="indent">Hur många rum innehöll brunnen under denna utbyggnadstid? </l>
+            <p>Hur många rum innehöll brunnen under denna utbyggnadstid? <lb/>
                Ett exakt svar kan inte ges, men en ungefärlig beräkning stannar <lb/>
                på ca 30 uthyrbara rum och ett lika antal privata rum. Fördel- <lb/>
                ningen mellan sovrum, sällskapsrum och betjäntrum är obekant, <lb/>
                liksom antalet rum som upptogs av personal.</p>
             
-            <p><l rend="indent">Av kartans utrymme upptar brunnsgårdsområdet endast det </l>
+            <p>Av kartans utrymme upptar brunnsgårdsområdet endast det <lb/>
                övre högra hörnet, resten ägnas beskrivningen av de vidlyftiga <lb/>
                och imponerande parkanläggningarna på andra sidan vägen (jmf. <lb/>
                bild 4), relaterade till brunnshuset som centralpunkten för alléer- <lb/>
@@ -691,13 +695,13 @@
                rondeller varav den närmast brunnshuset belägna på kartan kal- <lb/>
                las <quote>"en grön Parterre för dem som behaga dantza"</quote>.</p>
             
-            <p><l rend="indent">Parkens tillstånd var till en början uppenbart inte det bästa. </l>
+            <p>Parkens tillstånd var till en början uppenbart inte det bästa. <lb/>
                Kritik riktas 1718 mot brunnsmästaren, eller brunnsskänken, för <lb/>
                att han inte <quote>"höll alleerna reene, ej heller rundelen wijd macht, <lb/>
                   icke heller conserverade buskarne och inga trään, uthan lät dem af <lb/>
                   boskap nedtrampas"</quote>.</p>
             
-            <p><l rend="indent"><rs type="person">Johan Casimir Fleming</rs>, som i olika perioder av sitt liv var as-</l>
+            <p><rs type="person">Johan Casimir Fleming</rs>, som i olika perioder av sitt liv var as-<lb/>
                sessor, generaltullförvaltare och kammarråd, var en ständigt åter- <lb/>
                kommande brunnsgäst under åren 1705-1713. Av hans yrkesin- <lb/>
                riktningar att döma torde han knappast själv stå som parkens ut- <lb/>
@@ -708,14 +712,14 @@
                av alléer och rondeller och avskilt sjustjärnan från brunnsom- <lb/>
                rådet.</p>
             
-            <p><l rend="indent">Helt lösryckt ur promenadsynpunkt har intill det lilla torpet </l>
+            <p>Helt lösryckt ur promenadsynpunkt har intill det lilla torpet <lb/>
                Broarne förlagts en närmast renässansartad trädgård, kringgär- <lb/>
                dad av staket och försedd med prydliga korsade gångar och små <lb/>
                parterrer, ca 40X40 m i storlek. Motivet till denna kuriösa och <lb/>
                ålderdomliga lustgård är okänd.</p>
             
             <p><emph rend="italics">Byggnaderna</emph></p>
-            <p><l rend="indent">Den relaterade beskrivningen av brunnen hämtar sitt material </l>
+            <p>Den relaterade beskrivningen av brunnen hämtar sitt material <lb/>
                främst från 1721 års karta. Syneinstrumentet av år 1716 beskri- <lb/>
                ver byggnaderna. Kartans detaljer av byggnaderna: fönster, dör- <lb/>
                rar, knutar, takformer m.m. kan jämföras med synens kommen-</p>
@@ -739,13 +743,13 @@
                förd av timmer. Några hus består av två rum ev. med förstuga. <lb/>
                Övriga inkvarteringshus har haft direkt entré utifrån till varje <lb/>
                rum.</p>
-            <p><l rend="indent">Matsalsbyggnaden (nr 5 på bild 6) torde av måtten att döma </l>
+            <p>Matsalsbyggnaden (nr 5 på bild 6) torde av måtten att döma <lb/>
                ha innehållit en tämligen stor sal, ca 8X8 m, och är som enda <lb/>
                byggnad uppförd i två våningar. Den traditionen bär brunnen <lb/>
                fortfarande levande vittnesbörd om, när i dag den s.k. Ofvan- <lb/>
                dahls konditoribyggnad ensam reser sig över den övriga envå- <lb/>
                ningsmassan (bild 10).</p>
-            <p><l rend="indent">Regeln om den konsekventa slutenheten mot stora kopparvä- </l>
+            <p>Regeln om den konsekventa slutenheten mot stora kopparvä- <lb/>
                gen har dock sitt undantag. Två dörrar vetter häråt: dels en köks- <lb/>
                dörr och dels en sidoordnad dörr i ett av logementen. Den senare <lb/>
                är sannolikt en entré till läkarmottagningen, som ju bör ha haft <lb/>
@@ -755,7 +759,7 @@
                dition som brunnen än i dag, helt unikt bevarar, när fyllda eller <lb/>
                tomma matkorgar varje dag bärs över brunnsgården mellan kök <lb/>
                och matsalar.</p>
-            <p><l rend="indent">Privatbostäderna innehåller i allmänhet två rum, ett mindre </l>
+            <p>Privatbostäderna innehåller i allmänhet två rum, ett mindre <lb/>
                och ett större. Av skorstensplaceringarna att döma har de haft en <lb/>
                eldstad mitt i tvärväggen. Köken ligger strax intill som små ku- <lb/>
                ber. Endast en person har i det centrala brunnsområdet uppfört <lb/>
@@ -765,7 +769,7 @@
                och betjäntflyglar. Stora huset har förstuga och stor sal rakt fram <lb/>
                och åt sidorna vardera två gavelkamrar. Anläggningen sidoordnar <lb/>
                sig brunnsgården.</p>
-            <p><l rend="indent">Längre österut, på höjdryggen, och helt lösgjort från brunnens </l>
+            <p>Längre österut, på höjdryggen, och helt lösgjort från brunnens <lb/>
                centrum ligger Assessor <rs type="person">Adlerbaums</rs> hus (inte Adlerheim, en fel- <lb/>
                läsning av samtliga brunnens skildrare med tradition ända från</p>
             
@@ -784,12 +788,12 @@
                ra den äldsta brunnen än i dag. De är emellertid genom århund- <lb/>
                raden av reparationer och ombyggnader fattiga på spår från den <lb/>
                första tiden.</p>
-            <p><l rend="indent">En inbördes datering av byggnaderna är omöjlig att göra. En- </l>
+            <p>En inbördes datering av byggnaderna är omöjlig att göra. En- <lb/>
                dast vissa riktlinjer kan skönjas. <rs type="person">Skragge</rs> skriver från vinterkvar- <lb/>
                teret i <rs type="place">Rauritz</rs> i <rs type="place">Tyskland</rs> 1704 att han i <rs type="place">Sätra</rs> "giordt där stora <lb/>
                bekostningar med byggiande av kyrckia, hospital, logementer<lb/>
                m.m."<note n="10">10</note>)</p>
-            <p><l rend="indent"><rs type="person">Elfwing</rs>, nästföljande brunnsintendent, anses ha byggt en kyrka </l>
+            <p><rs type="person">Elfwing</rs>, nästföljande brunnsintendent, anses ha byggt en kyrka <lb/>
                och ett fattighus. Vem som egentligen uppfört kyrkan må vara <lb/>
                osagt, en klocka finns dock med årtalet 1710. Det är inte osanno- <lb/>
                likt att <rs type="person">Skragges</rs> insatser var av ytterst provisoriskt slag och <lb/>
@@ -801,7 +805,7 @@
                nad om två rum, en manlig och en kvinnlig avdelning. Mängden <lb/>
                bäddar, eller snarare antalet sängplatser, är tyvärr okänd. Bygg- <lb/>
                naden tycks ha saknat uppvärmningsmöjligheter.</p>
-            <p><l rend="indent">Syneprotokollet antyder att vissa av byggnaderna är gamla. </l>
+            <p>Syneprotokollet antyder att vissa av byggnaderna är gamla. <lb/>
                Det gäller brunnsgårdens hörnbyggnad i sydöst samt ett par kök. <lb/>
                Om brunnshuset heter det att det är utfört av "gambla bräder och <lb/>
                mist förfallit". Kyrkan och fattigstugan är däremot i gott skick <lb/>
@@ -830,21 +834,21 @@
             <p>hjärta. Det är Sätras första brunnssäsong och ledarskapet måste <lb/>
                lejas ut till en kollega.
             </p>
-            <p>      <l rend="indent">Uppgifterna om <rs type="place">Medevis</rs> tillstånd före den första kartan över</l> 
+            <p> Uppgifterna om <rs type="place">Medevis</rs> tillstånd före den första kartan över <lb/>
                brunnen 1707 är magra. Brunnsrörelsen startade redan 1678. Man  <lb/>
                vet att <rs type="place">Medevi</rs> fick en reglerad stadsplan 1693 och att ytterligare <lb/>
                hus uppfördes kring dessa år. 1 stort kan man påstå att brunnens    <lb/>         
                karaktärsdrag är definierade under de år <rs type="person">Skragge</rs> förestod kurer- <lb/>
             na där.<note n="41">41</note>)</p>
             
-            <p><l rend="indent">Det karaktäristiska för <rs type="place">Medevi</rs> är den långa gatan och torget  </l>   
+            <p>Det karaktäristiska för <rs type="place">Medevi</rs> är den långa gatan och torget    <lb/> 
                vid dess mitt. Till synes ser <rs type="place">Medevi</rs> helt annorlunda ut än <rs type="place">Sätra</rs>.       <lb/>      
                Allfarvägen tangerar anläggningen i dess västra kant och avskil-       <lb/>       
                jer hospitalet. Vinkelrätt mot vägen går brunnsgatan som leder         <lb/>      
                fram till det sidolagda torget. Brunnshuset och källan ligger av-       <lb/>    
                sides från gatumiljön, instängda norr om bebyggelsen i en park.</p>
             
-            <p><l rend="indent">För att underlätta en jämförelse med <rs type="place">Sätra</rs> kan man vända den </l>     
+            <p>För att underlätta en jämförelse med <rs type="place">Sätra</rs> kan man vända den     <lb/> 
                tidigaste kartan av <rs type="place">Medevi</rs> från 1707 upp och ned (bild 8). Be-</p>
             
             <p rend="left">
@@ -860,14 +864,14 @@
             </figure>
             <p rend="center"><emph rend="italics">Bild 9. Sätra brunn omkring 1720 enligt rekonstruktionen. Norr uppåt på bilden.</emph></p>
             
-            <p><l rend="indent">byggelsen sluter sig mot yttervärlden. Den riktar sig med sina</l>
+            <p>byggelsen sluter sig mot yttervärlden. Den riktar sig med sina<lb/>
                entréer mot gatan och torget, avstänger brunnsområdet med gär- <lb/>  
                desgårdar mot omgivningens ängar och med staket och port mot <lb/>  
                farvägen. Torget är utbildat som centrum men ofullständigt kring- <lb/>  
                byggt. Endast vissa entréer med grindar mellan husen mynnar <lb/>  
                mot brunnsparken.</p>
             
-            <p><l rend="indent">Likheterna med <rs type="place">Sätra</rs> är uppenbara (bild 9). För båda brunnar-</l>
+            <p>Likheterna med <rs type="place">Sätra</rs> är uppenbara (bild 9). För båda brunnar-<lb/>
                na gäller att i husraden mot parken förläggs brunnens institutio- <lb/>  
                ner: doktorsmottagning, apotek, kyrka, insprängda däremellan <lb/>  
                bostäder för brunnsgäster. Torget samlar entréerna till sig och i <lb/>  
@@ -875,7 +879,7 @@
                leder grindar och portar. Brunnsparken och de skuggande prome- <lb/>  
                naderna ligger utanför. Även hospitalet placeras avskilt.</p>
             
-            <p><l rend="indent"><rs type="place">Medevi</rs> har en påtagligt fastare, mer stadslik plantanke än</l>  
+            <p><rs type="place">Medevi</rs> har en påtagligt fastare, mer stadslik plantanke än  <lb/>
                <rs type="place">Sätra</rs>. Vissa uppgifter tyder dock på att den äldsta bebyggelsen <lb/>  
                i <rs type="place">Medevi</rs> legat mitt för torget och att gatans stadsmässiga karak- <lb/>  
                tär möjligen är en kompletterande utbyggnad under 1690-talet. <lb/>  
@@ -904,11 +908,11 @@
                <rs type="place">Medevi</rs>. Däremot förekommer den för <rs type="place">Medevi</rs> typiska korridors- <lb/> 
                planen inte i <rs type="place">Sätra</rs>.</p>
             
-            <p><l rend="indent">Vad <rs type="person">Skragge</rs> fått med sig från <rs type="place">Medevi</rs> är grundtanken i miljön,</l> 
+            <p>Vad <rs type="person">Skragge</rs> fått med sig från <rs type="place">Medevi</rs> är grundtanken i miljön, <lb/>
                inte stort mer. Likheterna får naturligtvis inte hårddras men kan <lb/> 
                heller inte avvisas.</p>
             
-            <p><l rend="indent">Såvitt det är bekant har i <rs type="place">Sverige</rs> inte byggts några brunnsan-</l> 
+            <p>Såvitt det är bekant har i <rs type="place">Sverige</rs> inte byggts några brunnsan- <lb/>
                läggningar med torget—gården som en sluten miljö skild från <lb/> 
                källan—brunnen mer än <rs type="place">Medevi</rs> och <rs type="place">Sätra</rs>. Var den har sitt <lb/> 
                egentliga ursprung är obekant. Här har möjligen <rs type="person">Urban Hjärne</rs> <lb/> 
@@ -933,7 +937,7 @@
             
             <p><emph rend="italics">Den fortsatta utvecklingen</emph></p>
             
-            <p><l rend="indent">Som ovan beskrivits var <rs type="place">Sätra brunns</rs> tillstånd till vissa delar</l>  
+            <p>Som ovan beskrivits var <rs type="place">Sätra brunns</rs> tillstånd till vissa delar  <lb/>
                redan 1720 präglat av slitage och skavanker. Under de följande <lb/> 
                årtiondena kom den ena byggnaden efter den andra att ersättas <lb/> 
                av nya. 1739 övertar provinsialläkaren i <rs type="place">Västmanland</rs> <rs type="person">Wallentin</rs> </p>
@@ -982,7 +986,7 @@
                kelt åtkomliga från förstugan. Plantypen för en sådan logement- <lb/>
                eller förläggningsbyggnad var inte ovanlig (jmfr bild 14).</p>
             
-            <p><l rend="indent">Brunnshuset, som 1716 anses mycket förfallet, fick tydligen</l>
+            <p>Brunnshuset, som 1716 anses mycket förfallet, fick tydligen<lb/>
                stå kvar med smärre reparationer till 1741, då det ännu bestående <lb/>
                Wolffska brunnshuset tillkom. 20 juni 1741 PSL står ristat på in- <lb/>
                sidan av brunnshusets norra vägg och dessutom året 1784. Det <lb/>
@@ -995,7 +999,7 @@
                Den senare är tillverkad av bildhuggaren <rs type="person">Ernst Philip Thoman</rs> i <lb/>
                <rs type="place">Stockholm</rs> och är fortfarande i tjänst.</p>
             
-            <p><l rend="indent">I och med att biskop <rs type="person">Anders Kalsenius</rs> övertar brunnen under</l>
+            <p>I och med att biskop <rs type="person">Anders Kalsenius</rs> övertar brunnen under<lb/>
                1740-talet förbättras byggnadsbeståndet väsentligt. Möjligen om- <lb/>
                byggs nu de båda nämnda landsvägsbyggnaderna med gavelkam- <lb/>
                rar till 6 rum vardera. Riksrådet och gamla kontoret uppförs san- <lb/> 
@@ -1006,7 +1010,7 @@
                sättningen blir lättare att i räkenskaperna följa byggnadernas re-  <lb/>
                parationer och övriga öden.</p>
             
-            <p><l rend="indent"><rs type="person">Kalsenius</rs> insatser följer den ursprungliga tanken i brunnens</l>
+            <p><rs type="person">Kalsenius</rs> insatser följer den ursprungliga tanken i brunnens<lb/>
                planläggning. Han kompletterar brunnsgårdens arkitektur med <lb/>
                varsam hand, rustar upp förfallna byggnader och genomför typi-</p>
             
@@ -1025,10 +1029,10 @@
             </p>
             
             <p>sering av bostäderna.</p>
-            <p><l rend="indent"><rs type="person">Olof Grau</rs> anmärker i sin beskrivning av <rs type="place">Västmanland</rs> 1754</l>
+            <p><rs type="person">Olof Grau</rs> anmärker i sin beskrivning av <rs type="place">Västmanland</rs> 1754<lb/>
                att <rs type="person">Kalsenius</rs> <quote>"bygde wackert up denna orten med många hus"</quote>.</p>
             
-            <p><l rend="indent"><rs type="person">Kalsenius</rs> siktar betydligt högre än sina föregångare. Utöver</l>
+            <p><rs type="person">Kalsenius</rs> siktar betydligt högre än sina föregångare. Utöver<lb/>
                komfort och byggnadernas underhåll söker han sig även mot den <lb/>
                stora och erkända arkitekturen. Då Serafimerorden 1749 besöker<lb/> 
                brunnen diskuteras <rs type="person">Hårleman</rs> som brunnens arkitekt <quote>"på det icke <lb/> 
@@ -1037,7 +1041,7 @@
                lägen uppgift framhölls en ny kyrka, men förslaget ledde tyvärr <lb/>
                inte till någon åtgärd.</p>
             
-            <p><l rend="indent">Den byggnad som däremot i detalj framträder i protokollet ef-</l> 
+            <p>Den byggnad som däremot i detalj framträder i protokollet ef- <lb/>
                ter nämnda ordens besök är fattighuset, nyligen uppbyggt och <lb/>
                iordningställt av <rs type="person">Kalsenius</rs>. Det bestod av två rum, det ena för <lb/>
                män med 14 bäddar det andra för kvinnor med 10 bäddar. An- <lb/>
@@ -1059,11 +1063,11 @@
             <p>drängar, pigor och betjänter var inkvarteringssituationen den- <lb/>
                samma.</p>
             
-            <p><l rend="indent">I femtio år bestod <rs type="person">Skragges</rs> plan utan nämndvärda tillägg. En </l>
+            <p>I femtio år bestod <rs type="person">Skragges</rs> plan utan nämndvärda tillägg. En <lb/>
                viss nybyggnadsverksamhet hade skett inom angivet område lik- <lb/>
                som en allmän upprustning av förfallna byggnader.</p>
             
-            <p><l rend="indent">1760 till 1762 tillskapas av dåvarande brunnsintendenten <rs type="person">Jo-</rs></l>
+            <p>1760 till 1762 tillskapas av dåvarande brunnsintendenten <rs type="person">Jo-</rs><lb/>
              <rs type="person">  nas Sidrén</rs> en bestående, arkitektoniskt medveten komplettering <lb/>
                av den centrala brunnsmiljön: en brunnssal och en kyrka — nu- <lb/>
                varande conversationssalongen och kontoret — anläggs som en <lb/>
@@ -1084,11 +1088,11 @@
                framöver omväxlande även danssalen, promenadsalen eller con- <lb/>
                versationssalen.</p>
             
-            <p><l rend="indent">Därmed är i stort <rs type="place">Sätra brunns</rs> gestalt definierad. Det som se- </l>
+            <p>Därmed är i stort <rs type="place">Sätra brunns</rs> gestalt definierad. Det som se- <lb/>
                dermera sker för den centrala brunnsmiljön är enbart mindre, <lb/>
                anonyma kompletteringar.</p>
             
-            <p><l rend="indent">Från och med 1770, d.v.s. början av prof. <rs type="person">Ziervogels</rs> inten- </l>
+            <p>Från och med 1770, d.v.s. början av prof. <rs type="person">Ziervogels</rs> inten- <lb/>
                dentstid ges detaljerade upplysningar i räkenskaperna om gjorda <lb/>
                tillägg och reparationer.<note n="13">13</note>) Först här står det klart, vilken <lb/>
                omfattning det normala underhållet av byggnaderna inneburit <lb/>
@@ -1108,7 +1112,7 @@
          <pb n="27"/> 
          <div type="page">
             
-            <p><l rend="indent">Räkenskaperna ger också en fast datering av vissa nyuppförda </l>
+            <p>Räkenskaperna ger också en fast datering av vissa nyuppförda <lb/>
                byggnader. Sålunda tillkommer mellan Landshövdingen och Riks- <lb/>
                rådet 1784 Nya matsalen, nuvarande Kalseniussalen, på plat- <lb/>
                sen för två små gemensamhetskök, som tillhört nämnda hus. Det- <lb/>
@@ -1122,7 +1126,7 @@
                på 1721 års karta. De båda byggnaderna företer mycket stora <lb/>
                likheter i storlek, planlösning och fönstersättning.</p>
             
-            <p><l rend="indent">En av brunnens stora män var <rs type="person">Abraham A:son Hülphers</rs> (1734</l>
+            <p>En av brunnens stora män var <rs type="person">Abraham A:son Hülphers</rs> (1734<lb/>
                —97), brunnens första hävdatecknare år 1769 i ett Fägne-tal till <lb/>
                konung <rs type="person">Adolph Fredriks</rs> höga namnsdag. Han var också förteck- <lb/>
                naren av alla i <rs type="place">Sverige</rs> upptagna mineralbrunnar, alla i <rs type="place">Sverige</rs> <lb/>
@@ -1142,14 +1146,14 @@
                bör ha skett omkring 1800. Det omnämns i 1796 års förteckning <lb/>
                men saknas i 1806 års syneprotokoll.</p>
             
-            <p><l rend="indent">Här, i nuvarande Berget, får vi alltså tänka oss den flitige råd-</l>
+            <p>Här, i nuvarande Berget, får vi alltså tänka oss den flitige råd-<lb/>
                mannen, sommartid sysselsatt med att skriva ned och korrektur- <lb/>
                läsa sina gigantiska och metodiska undersökningar eller planläg- <lb/>
                gande nya insamlingsäventyr, avskild från den brokiga brunns- <lb/>
                gårdsmiljön men med full kontroll över händelserna genom bygg- <lb/>
                nadens utsikt och höga läge.</p>
             
-            <p><l rend="indent">Möjligheterna att ta emot brunnsgästerna blev hårt ansträngda</l>
+            <p>Möjligheterna att ta emot brunnsgästerna blev hårt ansträngda<lb/>
                under senare delen av 1770-talet. Brunnen hade då ett stabilt gott</p>
             
             <p rend="right">
@@ -1214,7 +1218,7 @@
                om- och påbyggnader tills dess det på 1850-talet ersattes av det <lb/>
                nuvarande.</p>
             
-            <p><l rend="indent">Den stora tillströmningen av gäster krävde fram emot seklets </l>
+            <p>Den stora tillströmningen av gäster krävde fram emot seklets <lb/>
                slut en radikal lösning av inkvarteringsbekymren. Ett resultat <lb/>
                härav är i första hand Nybygget, ett slags hotell, som uppförs <lb/>
                1792. Inredningen kompletteras under nästföljande år. Helt fär- <lb/>
@@ -1230,7 +1234,7 @@
                rummen med öppen spis, de inre med kokspis. Övriga rum var <lb/>
                enkelrum utan värmekällor (bild 14).</p>
             
-            <p><l rend="indent">Uppenbarligen betraktades brunnsgården i stort som fullbyggd</l>
+            <p>Uppenbarligen betraktades brunnsgården i stort som fullbyggd<lb/>
                och färdig ur miljösynpunkt. Annars hade det väl varit naturli- <lb/>
                gare att hit förlägga de stora nybyggnadsprojekten. I stället har <lb/>
                en ny syn på brunnen som en natur eller park slagit igenom. Man <lb/>
@@ -1246,7 +1250,7 @@
                re kom att kallas. Det stora språnget betecknar därefter Nybygget <lb/>
                med sitt avstånd av ca 200 m från brunnsgården (bild 15).</p>
             
-            <p><l rend="indent">Här utbildas nu en tradition att sprida bebyggelsen som sedan </l>
+            <p>Här utbildas nu en tradition att sprida bebyggelsen som sedan <lb/>
                hela 1800-talet och även vårt sekel har följt, inte minst till lycka <lb/>
                för brunnsgårdsområdet som därigenom har kommit att så tyd- <lb/>
                ligt bevara den allra första brunnsanläggningens skala och karak- <lb/>
@@ -1279,21 +1283,21 @@
             <p>kommit att rubbas något genom utflyttningen av bostäderna. <lb/>
                Samtidigt har andra försök gjorts att binda brunnsmiljön samman.</p>
            
-            <p> <l rend="indent">1796 följer Gästbyggnaden eller Tullsta, som den i början kal- </l>
+            <p> 1796 följer Gästbyggnaden eller Tullsta, som den i början kal- <lb/>
                lades, följt av torpen. Här kan vi tydligt skönja en gängse <lb/>
                metod som hör till timmerhusets största fördelar och som flitigt <lb/>
                utnyttjats i brunnen — möjligheten att flyttas. Tullstabyggnaden <lb/>
                hämtades från den närbelägna byn <rs type="place">Tullsta</rs>, torpen från <rs type="place">Asplunds <lb/>
                by</rs> och andra platser.</p>
             
-            <p><l rend="indent">Kring sekelskiftet 1800, under archiatern <rs type="person">Pehr v. Afzelius</rs> led- </l>
+            <p>Kring sekelskiftet 1800, under archiatern <rs type="person">Pehr v. Afzelius</rs> led- <lb/>
                ning, upplever brunnen en storhetsperiod av tidigare ej uppnått <lb/>
                slag. Ca 200 ståndspersoner och ca 600 personer av allmogen be- <lb/>
                söker brunnen varje år. Efter 14 dagars brunnssäsong hade 1801 <lb/>
                570 gäster skrivits in.<note n="14">14</note>) 1806 års syneprotokoll upptar totalt 92 st. <lb/>
                byggnader och uthus.</p>
             
-            <p>  <l rend="indent"> En karta frän 1820 räknar samman antalet rum till 110 be- </l>
+            <p>En karta frän 1820 räknar samman antalet rum till 110 be- <lb/>
                boeliga och 36 obeboeliga. Var standardgränsen för beboelighet <lb/>
                går håller författaren tyst om. Liksom tidigare är det här omöj- <lb/>
                ligt att dela upp nyttjandet av rummen på personal, gäster och <lb/>
@@ -1301,7 +1305,7 @@
                kvarteringsrum högst ca 15 st. Såväl rum som sängar delades <lb/>
             emellertid av flera.</p>
             
-            <p>  <l rend="indent"> På grund av den ökade tillströmningen steg också kraven på </l>
+            <p>På grund av den ökade tillströmningen steg också kraven på <lb/>
                underhållning och sysselsättning. Som en följd härav uppfördes <lb/>
                biljarden. Invid brunnsgårdens norra sida låg en drängkammare, <lb/>
                placerad mellan Hülpherska byggnaderna och Mathiesen. Dräng- <lb/>
@@ -1335,12 +1339,12 @@
                1816, samtidigt med en likartad ombyggnad av Mathiesens samt- <lb/>
                liga tak.</p>
             
-            <p><l rend="indent">Det är alltså en mycket lång tid som åtgått för att utforma </l>
+            <p>Det är alltså en mycket lång tid som åtgått för att utforma <lb/>
                brunnsgården som vi idag känner den. Utvecklingen har gått steg- <lb/>
                vis och skickligt utnyttjas slumpartade förutsättningar för att till <lb/>
             slut forma den ordning och relativa symmetri som nu råder.</p>
             
-            <p><l rend="indent">Ett väsentligt problem var självklart inkvarteringen av alla </l>
+            <p>Ett väsentligt problem var självklart inkvarteringen av alla <lb/>
                hästar med tillhörande vagnar. Traditionellt var dessa funktioner <lb/>
                tillgodosedda i brunnens västligaste och östligaste delar: norr om <lb/>
                hospitalet respektive norr om Biskopsgården. För att möta det <lb/>
@@ -1350,7 +1354,7 @@
                möjligen i flyttat skick återfinnas i de byggnader av likartat slag  <lb/>
             som i dag ligger söder om nya landsvägen, mitt för badhusen.</p>
             
-            <p>      <l rend="indent">Lika viktigt var också försörjningsmöjligheterna av ved för </l>
+            <p>Lika viktigt var också försörjningsmöjligheterna av ved för <lb/>
                badhusens varmvattenberedning och för alla köksspisars och ka- <lb/>
                kelugnars behov. Badhuset har här säkert varit dominerande i <lb/>
                fråga om kontinuerlig tillförsel. 1820 års karta visar vedgården <lb/>
@@ -1359,7 +1363,7 @@
                dition representerar sannolikt också tallbarrshuggningen strax <lb/>
             intill, som ännu fortlever utan konkurrens från essensfabriker.</p>
             
-            <p><l rend="indent">Den tilltagande mängden människor krävde inte bara rum att </l>
+            <p>Den tilltagande mängden människor krävde inte bara rum att <lb/>
                bo i. Trafiken i den centrala brunnsmiljön växte. Genom att be- <lb/>
                byggelsen kommit att spridas blev den sanka terrängen öster om <lb/>
                brunnsgården obekväm. Behovet av en intimare och centralare <lb/>
@@ -1387,7 +1391,7 @@
                tyngdpunkt, som till sig samlade såväl brunnshusmiljön som <lb/>
                brunnsgården och det avlägsnare Nybygget.</p>
             
-            <p><l rend="indent">Anläggandet av Pehrsparken skulle ha kunnat betraktas som </l>
+            <p>Anläggandet av Pehrsparken skulle ha kunnat betraktas som <lb/>
                ett hundraårsjubileum av brunnens födelse. Ett sådant betraktelse- <lb/>
                sätt var säkert den dåtida brunnsledningen helt främmande men <lb/>
                det ger oss anledning till en jämförande tillbakablick. Brunns- <lb/>
@@ -1404,7 +1408,7 @@
                delarna endast hårdare och medvetnare och nådde kring 1800 i <lb/>
                princip fram till en mättnadsgräns som ännu i dag består.</p>
             
-            <p><l rend="indent">I denna miljö, där dåtidens brunnssällskap vid det morgontidi- </l>
+            <p>I denna miljö, där dåtidens brunnssällskap vid det morgontidi- <lb/>
                ga drickandet lyssnade till valser och polskor från brunnens egen <lb/>
                nyckelharpa, eller åt pepparkakor och sockergryn från de öppna <lb/>
                salustånden, skvallrade och kurtiserade, har vi möjlighet att vand- <lb/>
@@ -1425,30 +1429,30 @@
          <div type="page">
             
             <p>NOTER:</p> <lb/>
-            <p><l rend="indent"><note n="1">1</note>) <emph rend="italics"><rs type="person">Samuel Skragge</rs></emph>, En kort berättelse om the nyss uppfundne Hälsokällor</l>
+            <p><note n="1">1</note>) <emph rend="italics"><rs type="person">Samuel Skragge</rs></emph>, En kort berättelse om the nyss uppfundne Hälsokällor<lb/>
             på skillnaden emellan <rs type="place">Fläckiebo</rs> och <rs type="place">Kijla</rs> Socknar  <rs type="place">Westmanland</rs>. <rs type="place">Stockholm</rs> <lb/>
             1701. sid. 5. </p>
-            <p><l rend="indent"><note n="2">2</note>) a. a. Sid. 4.</l></p>
-            <p><l rend="indent"><note n="3">3</note>) a. a. Sid. 4.</l></p>
-            <p><l rend="indent"><note n="4">4</note>) <emph rend="italics"><rs type="person">Samuel Skragge</rs></emph>, Kårt föfattning af några lycklige Curer som skedde om</l>
+            <p><note n="2">2</note>) a. a. Sid. 4.</p>
+            <p><note n="3">3</note>) a. a. Sid. 4.</p>
+            <p><note n="4">4</note>) <emph rend="italics"><rs type="person">Samuel Skragge</rs></emph>, Kårt föfattning af några lycklige Curer som skedde om<lb/>
             sommaren af åhr 1702 widh de för några åhr sedan uppfundne Hälso-Källor <lb/>
             i <rs type="place">Westmanland</rs>. <rs type="place">Stockholm</rs> 1703.</p>
-            <p><l rend="indent"><note n="5">5</note>) a. a. Sid. 78.</l></p>
-            <p><l rend="indent"><note n="6">6</note>) Protokoll (U.U.B.) föreligger tyvärr endast i avskrift. Originalets öde</l>
+            <p><note n="5">5</note>) a. a. Sid. 78.</p>
+            <p><note n="6">6</note>) Protokoll (U.U.B.) föreligger tyvärr endast i avskrift. Originalets öde<lb/>
             obekant.</p>
-            <p><l rend="indent"><note n="7">7</note>) U.U.B.</l></p>
-            <p><l rend="indent"><note n="8">8</note>) Orsaken till beslaget var att <rs type="person">Samuel Skragge</rs> stod som borgensman för sin </l>
+            <p><note n="7">7</note>) U.U.B.</p>
+            <p><note n="8">8</note>) Orsaken till beslaget var att <rs type="person">Samuel Skragge</rs> stod som borgensman för sin <lb/>
                yngste bror <rs type="person">Elof</rs>, vilken som ämbetsman i Falun råkat förskingra rätt ansen-<lb/>
             liga belopp. Förutom exekutiv auktion beslagtogs även <rs type="place">Sätra brunn</rs>. </p>
-            <p><l rend="indent"><note n="9">9</note>) <emph rend="italics"><rs type="person">Peter Elfwing </rs></emph>. Kort anmärkningar öwer <rs type="place">Kijla</rs> eller <rs type="place">Fläckebo</rs> Hälso-</l>
+            <p><note n="9">9</note>) <emph rend="italics"><rs type="person">Peter Elfwing </rs></emph>. Kort anmärkningar öwer <rs type="place">Kijla</rs> eller <rs type="place">Fläckebo</rs> Hälso-<lb/>
             Bruns Curer. <rs type="place">Stockholm</rs> 1708.</p>
-            <p><l rend="indent"><note n="10">10</note>) U.U.B.</l></p>
-           <p> <l rend="indent"><note n="11">11</note>) Uppgifter om <rs type="place">Medevis</rs> tidigaste karta är hämtade från dels <emph rend="italics"><rs type="person">Lars Olséns</rs></emph> </l>
+            <p><note n="10">10</note>) U.U.B.</p>
+            <p><note n="11">11</note>) Uppgifter om <rs type="place">Medevis</rs> tidigaste karta är hämtade från dels <emph rend="italics"><rs type="person">Lars Olséns</rs></emph> <lb/>
             artikel En nyupptäckt Medevikarta i Acta Ostrogothica del VI 1955, dels från <lb/>
               <emph rend="italics"><rs type="person">Sven E. Noreens </rs></emph> artikel <rs type="place">Medevi</rs> – en märklig surbrunn – och fritidsmiljö, <lb/>
            <rs type="place">Östergötland</rs> 1970. Författaren tackar särskilt den sistnämnde för stimulerande <lb/>
            diskussioner. </p>
-            <p><quote><l rend="indent"><note n="12">12</note>) <emph rend="italics"><rs type="person">Urban Hjärne</rs></emph>. Kort anledning till Hälsobrunnars och Mineral-watns op- </l>
+            <p><quote><note n="12">12</note>) <emph rend="italics"><rs type="person">Urban Hjärne</rs></emph>. Kort anledning till Hälsobrunnars och Mineral-watns op- <lb/>
             letande, bepröfwande och brukande. <rs type="place">Stockholm</rs> 1707. Sid. 39–40. "Jag <lb/>
             haar af förfarenheten , at man medh fördiupt gräfwande haar de watn <lb/>
             som warit dugliga och goda nog alldeles förderfwat. Sedan på det at regn- <lb/>
@@ -1466,7 +1470,7 @@
             skiulet långt, at härden kunde komma mitt uthi, så at manfolcken intaga <lb/>
             then ena ändan och qwinfolcken den anra, således ifrån hwarandra skilde <lb/>
             hafwa bättre maak, det wore myckit beqwämligt.</quote> </p>
-            <p><quote><l rend="indent">De andra tarfwerum, som är ett skiul eller rum för Gudstiensten til morgon</l> <lb/>
+            <p><quote>De andra tarfwerum, som är ett skiul eller rum för Gudstiensten til morgon <lb/>
             och afton böön, til predikandeom Söndage; widare de nödige betienters <lb/>
             rum, såsom apothek, Brunn-medici kammar, derest brunnsgästernasom i för- <lb/>
             stone widh curen intet äro wane, så myckit flitigare kunna sigh förfråga; <lb/>
@@ -1482,27 +1486,27 @@
          <div type="page">
             <p><quote>bekante tarfhus, der warder öfningen och nödwändigheten af sigh sielf wäl <lb/>
             lära dem, när brunn-curen går för sigh, och alt kommer i sitt rätta skick."</quote></p>
-            <p><l rend="indent"><note n="13">13</note>) Samtliga brunnens räkenskaper fram till 1850-talet förvaras i U.U.B. </l>
+            <p><note n="13">13</note>) Samtliga brunnens räkenskaper fram till 1850-talet förvaras i U.U.B. <lb/>
             och överfördes från brunnen vid 1900-talets början. Utöver rena kassaböcker <lb/>
             finns även ett antal syneprotokoll, i huvudsak från 1800-talets första hälft <lb/>
             samt kartor. Utöver den i not <note n="7">7</note> omnämnda kartan existerar ytterligare fyra <lb/>
             kartor av vilka två är upprättade 1796. Den ena är reviderad kring år 1800, <lb/>
             de övriga upprättade 1820 och 1868. För tolkningen av brunnens byggnads- <lb/>
             historia har de tre förstnämnda utnyttjats.</p>
-            <p><l rend="indent"><note n="14">14</note>) Enligt minnesberättelse av prof. <rs type="person">Zetterström</rs>, vilken som ung vistades </l>
+            <p><note n="14">14</note>) Enligt minnesberättelse av prof. <rs type="person">Zetterström</rs>, vilken som ung vistades <lb/>
             vid brunnen åren 1801–1802. U.U.B.</p>
             
-            <p><l rend="indent"><note n="15">15</note>) <emph rend="italics"><rs type="person">G. Borgman</rs></emph>. Försök till beskrivning öfver Kila socken, Sträkngnäs 1828. </l>
+            <p><note n="15">15</note>) <emph rend="italics"><rs type="person">G. Borgman</rs></emph>. Försök till beskrivning öfver Kila socken, Sträkngnäs 1828. <lb/>
             Sid. 65.</p>
-            <p><l rend="indent">Utöver ovan anförda skrifter har i första hand följande litteratur utnyttjats:</l></p>
-            <p><l rend="indent">1. <rs type="person">Bergmark, Matts</rs>., Bad och bot. <rs type="place">Falun</rs> 1964.</l></p>
-            <p><l rend="indent">2. <rs type="person">Hülphers, Abr. Abr:son</rs>. Underdånigste Fägnetal uppå Hans Kongl. Ma- </l>
+            <p>Utöver ovan anförda skrifter har i första hand följande litteratur utnyttjats:</p>
+            <p>1. <rs type="person">Bergmark, Matts</rs>., Bad och bot. <rs type="place">Falun</rs> 1964.</p>
+            <p>2. <rs type="person">Hülphers, Abr. Abr:son</rs>. Underdånigste Fägnetal uppå Hans Kongl. Ma-<lb/> 
             jestäts, Wår Allernådigste Konungs <rs type="person">Adolph Friedrichs</rs> Höga Namns-Dag, <rs type="place">Väs-<lb/>
             terås</rs> 1770. </p>
-            <p><l rend="indent">3. <rs type="person">Näsström, Gustav</rs>., Det gamla <rs type="place">Medevi</rs>. <rs type="place">Stockholm</rs> 1928. </l></p>
-            <p><l rend="indent">4. <rs type="person">Rosenius-Högman, Ruth</rs>., Sätra Brunn genom tiderna. <rs type="place">Västerås</rs> 1962. </l></p>
-            <p><l rend="indent">5. Samma författare. Uppgifter om Sätra brunn. <rs type="place">Västerås</rs> 1937. </l></p>
-            <p><l rend="indent">6. <rs type="person">Tersmeden, Petrus</rs>., Sätra brunns krönika 1700–1915. <rs type="place">Uppsala</rs> 1916. </l></p>
+            <p>3. <rs type="person">Näsström, Gustav</rs>., Det gamla <rs type="place">Medevi</rs>. <rs type="place">Stockholm</rs> 1928. </p>
+            <p>4. <rs type="person">Rosenius-Högman, Ruth</rs>., Sätra Brunn genom tiderna. <rs type="place">Västerås</rs> 1962. </p>
+            <p>5. Samma författare. Uppgifter om Sätra brunn. <rs type="place">Västerås</rs> 1937. </p>
+            <p>6. <rs type="person">Tersmeden, Petrus</rs>., Sätra brunns krönika 1700–1915. <rs type="place">Uppsala</rs> 1916. </p>
             <p rend="right">
                37
             </p>            
