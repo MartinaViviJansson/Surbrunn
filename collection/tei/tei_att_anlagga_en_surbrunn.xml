@@ -22,6 +22,7 @@
             
                <monogr>
                   <title>ATT ANLÄGGA EN SURBRUNN En studie kring Sätra brunns första utbyggnad</title>
+                  <idno source="http://libris.kb.se/bib/9002614"/>
                <author>Ove Hidemark</author>
                   <availability>
                      <p>Copyright: 1972 Ove Hidemark</p>
@@ -34,6 +35,7 @@
                      <biblScope unit="page" n="37">37 pages</biblScope>
                      <distributor>VLT-press</distributor> 
                   </imprint>
+                
                </monogr>
                <relatedItem><bibl>Källan som den här elektroniska publiceringen baseras på är ett särtryck
                ur Västmanlands Fornminnesförenings Årsskrift 1972</bibl></relatedItem>
