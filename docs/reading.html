@@ -9,22 +9,25 @@
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
       <link rel="stylesheet" href="assets/css/main.css">
       <script>
+         // I script-taggen har vi en javascript-function som hanterar den visuella upplevelsen av slideshow/karusell/carousel
     document.addEventListener("DOMContentLoaded", function () {
+    // Variabler för att kunna ha knappar på sidan för att "sätta igång"/aktivera skriptet (när en besökare trycker på nästa så startas programmet kan man säga. Varje gång du trycker "nästa" så körs programmet på nytt för att visa en ny bild)
+
       var prevSlide = document.getElementById("prevSlide");
       var nextSlide = document.getElementById("nextSlide");
 
-      // Create a carousel instance
+      //  // Här skapar vi en variabel som hämtar in bootstrap och skapar en Carousel som vi kopplar till Id="myCarousel" som finns i div-elementet i början av html-trädet
       var myCarousel = new bootstrap.Carousel(document.getElementById("myCarousel"));
 
-      // Don't cycle carousel to next when it isn't visible
+      // Här hindrar vi karusellen att snurra om det finns bilder att visa upp (vi vill istället kontrollera det själva med knapptryck på sidan)
       myCarousel.nextWhenVisible();
 
-      // Cycles to the previous item
+      // Om en användare klickar på html-elementet med id="PrevSlide" så vi vill gå till föregående bild
       prevSlide.addEventListener("click", function () {
         myCarousel.prev();
       });
 
-      // Cycles to the next item
+      // Om en användare klickar på html-elementet med id="NextSlide" så vi vill gå till nästkommande bild
       nextSlide.addEventListener("click", function () {
         myCarousel.next();
       });
