@@ -20,15 +20,15 @@
       // Id "myCarousel" pekar på vår carousel i html-elementet
       var myCarousel = new bootstrap.Carousel(document.getElementById("myCarousel"));
 
-      // Don't cycle carousel to next when it isn't visible
+      // Vi tillskriver vår variabel en "action" för att bläddra mellan bilder
       myCarousel.nextWhenVisible();
 
-      // Cycles to the previous item
+      // Funktion för att hämta föregående bild i html-trädet
       prevSlide.addEventListener("click", function () {
         myCarousel.prev();
       });
 
-      // Cycles to the next item
+      // Funktion för att hämta nästkommande bild i html-trädet
       nextSlide.addEventListener("click", function () {
         myCarousel.next();
       });
@@ -45,9 +45,7 @@
          <a href="reading.html">Att anlägga en surbrunn rekonstruerad</a> |
          <a href="toplayer.html">Att anlägga en surbrunn inskannad</a> |
       </nav>
-      <h2>
-         <u>Att anlägga en surbrunn</u>
-      </h2>
+
       <div class="container-lg my-3">
          <div id="myCarousel" class="carousel slide" data-bs-interval="false" data-bs-ride="carousel">
             <div class="carousel-inner">
